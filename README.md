@@ -9,13 +9,13 @@ The aim of this project was to analyse data about world food production to find 
 ### Findings
 I first filtered the data for production and grouped it by year, number of producer countries, and then by sum of production to find the fastest growing crop. I found blueberry to be the fastest growing crop with 131% increase in production in 2021 compared to 2012 and a massive spurt in the harvest land: production ratio.
 
-![image](https://user-images.githubusercontent.com/8871052/230824174-91d2266b-c9cc-47cc-abf7-ceb9b71f7f58.png)
+<img width="857" alt="Screenshot 2023-04-10 at 12 11 11 AM" src="https://user-images.githubusercontent.com/8871052/230824287-c1bfddec-5994-4129-bb9c-fb967f7f71ba.png">
 
 ### Data Collection Process
 
-The data was collected directly from UNFAO's UNSTAT platform. The shape files for the map were taken from Massachusetts Institute of Technology's GeoWeb platform. The information about the Peru/Humboldt current was from Fresh Fruit Portal's news report (https://www.freshfruitportal.com/news/2013/05/03/geography-to-play-key-role-in-perus-blueberry-sector/). 
+The data was collected directly from UNFAO's UNSTAT platform. The shape files for the map were taken from Massachusetts Institute of Technology's GeoWeb platform. The information about the Peru/Humboldt current was from Fresh Fruit Portal's [news report](https://www.freshfruitportal.com/news/2013/05/03/geography-to-play-key-role-in-perus-blueberry-sector/). 
 
-Source: FAOSTAT (https://www.fao.org/faostat/en/#home) | MIT GeoWeb (https://geodata.mit.edu/?f%5Bdc_format_s%5D%5B%5D=Shapefile&f%5Bdct_spatial_sm%5D%5B%5D=Peru) 
+Source: [FAOSTAT](https://www.fao.org/faostat/en/#home) | [MIT GeoWeb](https://geodata.mit.edu/?f%5Bdc_format_s%5D%5B%5D=Shapefile&f%5Bdct_spatial_sm%5D%5B%5D=Peru) 
 
 ### Overview of the Data Analysis Process
 
@@ -26,10 +26,12 @@ Initial finding was of avocado but I realised, rather late, that 27 new countrie
 * I have been keeping a personal list of things I must do immediately after collection of data. I learned a very important lesson and made an addition to my list: always check for null values even in columns that you are not using.
 * I learned to add pictures to the spheres in a scatter plot in ggplot.
 
+
+
 ### Future of This Project
 
 I tried to explain the Peru current phenomenon but could not do it in detail for two reasons:
 1. I ran out of time. 
 2. I did not know how to create the effect of an ocean current in freehand.
 
-I also tried to make a waffle chart to show the ratio of harvest land to production and explain why the ratio had gone down in 2021 even though, in raw numbers, production had increased a lot. At a later date, I would like to deep dive into it as it is an interesting topic that covers environment, labour, and climate change.
+I also tried to make a waffle chart to show the ratio of harvest land to production and explain why the ratio had gone down in 2021 even though, in raw numbers, production had increased a lot. At a later date, I would like to deep dive into it as it is an interesting topic that covers environment, labour, and climate change. 
