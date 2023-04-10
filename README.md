@@ -9,6 +9,8 @@ The aim of this project was to analyse data about world food production to find 
 ### Findings
 I first filtered the data for production and grouped it by year, number of producer countries, and then by sum of production to find the fastest growing crop. I found blueberry to be the fastest growing crop with 131% increase in production in 2021 compared to 2012 and a massive spurt in the harvest land: production ratio.
 
+![image](https://user-images.githubusercontent.com/8871052/230824174-91d2266b-c9cc-47cc-abf7-ceb9b71f7f58.png)
+
 ### Data Collection Process
 
 The data was collected directly from UNFAO's UNSTAT platform. The shape files for the map were taken from Massachusetts Institute of Technology's GeoWeb platform. The information about the Peru/Humboldt current was from Fresh Fruit Portal's news report (https://www.freshfruitportal.com/news/2013/05/03/geography-to-play-key-role-in-perus-blueberry-sector/). 
