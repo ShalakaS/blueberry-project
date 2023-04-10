@@ -26,7 +26,7 @@ Initial finding was of avocado but I realised, rather late, that 27 new countrie
 * I have been keeping a personal list of things I must do immediately after collection of data. I learned a very important lesson and made an addition to my list: always check for null values even in columns that you are not using.
 * I learned to add pictures to the spheres in a scatter plot in ggplot.
 
-
+<img width="667" alt="Screenshot 2023-04-10 at 12 14 15 AM" src="https://user-images.githubusercontent.com/8871052/230824540-08872ede-5056-4baf-b139-d0b134efc96b.png">
 
 ### Future of This Project
 
