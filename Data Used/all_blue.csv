@@ -1,0 +1,285 @@
+Domain Code,Domain,Country Code (M49),Country,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description,year_dt
+QCL,Crops and livestock products,36,Australia,5510,Production,1355.01,Blueberries,2012,2012,tonnes,3677.86,I,Imputed value,2012-01-01
+QCL,Crops and livestock products,36,Australia,5510,Production,1355.01,Blueberries,2013,2013,tonnes,4255.14,I,Imputed value,2013-01-01
+QCL,Crops and livestock products,36,Australia,5510,Production,1355.01,Blueberries,2014,2014,tonnes,5019.67,I,Imputed value,2014-01-01
+QCL,Crops and livestock products,36,Australia,5510,Production,1355.01,Blueberries,2015,2015,tonnes,5821.55,I,Imputed value,2015-01-01
+QCL,Crops and livestock products,36,Australia,5510,Production,1355.01,Blueberries,2016,2016,tonnes,6810.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,36,Australia,5510,Production,1355.01,Blueberries,2017,2017,tonnes,5883.74,E,Estimated value,2017-01-01
+QCL,Crops and livestock products,36,Australia,5510,Production,1355.01,Blueberries,2018,2018,tonnes,6171.76,E,Estimated value,2018-01-01
+QCL,Crops and livestock products,36,Australia,5510,Production,1355.01,Blueberries,2019,2019,tonnes,6288.5,E,Estimated value,2019-01-01
+QCL,Crops and livestock products,36,Australia,5510,Production,1355.01,Blueberries,2020,2020,tonnes,6114.67,E,Estimated value,2020-01-01
+QCL,Crops and livestock products,36,Australia,5510,Production,1355.01,Blueberries,2021,2021,tonnes,6191.64,E,Estimated value,2021-01-01
+QCL,Crops and livestock products,40,Austria,5510,Production,1355.01,Blueberries,2018,2018,tonnes,1420.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,40,Austria,5510,Production,1355.01,Blueberries,2019,2019,tonnes,1350.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,40,Austria,5510,Production,1355.01,Blueberries,2020,2020,tonnes,1570.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,40,Austria,5510,Production,1355.01,Blueberries,2021,2021,tonnes,1740.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,56,Belgium,5510,Production,1355.01,Blueberries,2018,2018,tonnes,600.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,56,Belgium,5510,Production,1355.01,Blueberries,2019,2019,tonnes,700.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,56,Belgium,5510,Production,1355.01,Blueberries,2020,2020,tonnes,600.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,56,Belgium,5510,Production,1355.01,Blueberries,2021,2021,tonnes,830.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,100,Bulgaria,5510,Production,1355.01,Blueberries,2012,2012,tonnes,100.0,E,Estimated value,2012-01-01
+QCL,Crops and livestock products,100,Bulgaria,5510,Production,1355.01,Blueberries,2013,2013,tonnes,99.51,I,Imputed value,2013-01-01
+QCL,Crops and livestock products,100,Bulgaria,5510,Production,1355.01,Blueberries,2014,2014,tonnes,98.0,E,Estimated value,2014-01-01
+QCL,Crops and livestock products,100,Bulgaria,5510,Production,1355.01,Blueberries,2015,2015,tonnes,96.7,I,Imputed value,2015-01-01
+QCL,Crops and livestock products,100,Bulgaria,5510,Production,1355.01,Blueberries,2016,2016,tonnes,98.72,I,Imputed value,2016-01-01
+QCL,Crops and livestock products,100,Bulgaria,5510,Production,1355.01,Blueberries,2017,2017,tonnes,98.54,I,Imputed value,2017-01-01
+QCL,Crops and livestock products,100,Bulgaria,5510,Production,1355.01,Blueberries,2018,2018,tonnes,100.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,100,Bulgaria,5510,Production,1355.01,Blueberries,2020,2020,tonnes,80.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,100,Bulgaria,5510,Production,1355.01,Blueberries,2021,2021,tonnes,110.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,124,Canada,5510,Production,1355.01,Blueberries,2012,2012,tonnes,127174.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,124,Canada,5510,Production,1355.01,Blueberries,2013,2013,tonnes,110313.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,124,Canada,5510,Production,1355.01,Blueberries,2014,2014,tonnes,166739.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,124,Canada,5510,Production,1355.01,Blueberries,2015,2015,tonnes,175549.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,124,Canada,5510,Production,1355.01,Blueberries,2016,2016,tonnes,211191.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,124,Canada,5510,Production,1355.01,Blueberries,2017,2017,tonnes,173641.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,124,Canada,5510,Production,1355.01,Blueberries,2018,2018,tonnes,155229.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,124,Canada,5510,Production,1355.01,Blueberries,2019,2019,tonnes,176490.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,124,Canada,5510,Production,1355.01,Blueberries,2020,2020,tonnes,148465.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,124,Canada,5510,Production,1355.01,Blueberries,2021,2021,tonnes,146551.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,152,Chile,5510,Production,1355.01,Blueberries,2012,2012,tonnes,78000.0,E,Estimated value,2012-01-01
+QCL,Crops and livestock products,152,Chile,5510,Production,1355.01,Blueberries,2013,2013,tonnes,82000.0,E,Estimated value,2013-01-01
+QCL,Crops and livestock products,152,Chile,5510,Production,1355.01,Blueberries,2014,2014,tonnes,88000.0,E,Estimated value,2014-01-01
+QCL,Crops and livestock products,152,Chile,5510,Production,1355.01,Blueberries,2015,2015,tonnes,93000.0,E,Estimated value,2015-01-01
+QCL,Crops and livestock products,152,Chile,5510,Production,1355.01,Blueberries,2016,2016,tonnes,116000.0,E,Estimated value,2016-01-01
+QCL,Crops and livestock products,152,Chile,5510,Production,1355.01,Blueberries,2017,2017,tonnes,95000.0,E,Estimated value,2017-01-01
+QCL,Crops and livestock products,152,Chile,5510,Production,1355.01,Blueberries,2018,2018,tonnes,126000.0,E,Estimated value,2018-01-01
+QCL,Crops and livestock products,152,Chile,5510,Production,1355.01,Blueberries,2019,2019,tonnes,150470.32,I,Imputed value,2019-01-01
+QCL,Crops and livestock products,152,Chile,5510,Production,1355.01,Blueberries,2020,2020,tonnes,123915.78,I,Imputed value,2020-01-01
+QCL,Crops and livestock products,152,Chile,5510,Production,1355.01,Blueberries,2021,2021,tonnes,122794.82,I,Imputed value,2021-01-01
+QCL,Crops and livestock products,191,Croatia,5510,Production,1355.01,Blueberries,2018,2018,tonnes,310.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,191,Croatia,5510,Production,1355.01,Blueberries,2019,2019,tonnes,360.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,191,Croatia,5510,Production,1355.01,Blueberries,2020,2020,tonnes,720.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,191,Croatia,5510,Production,1355.01,Blueberries,2021,2021,tonnes,540.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,208,Denmark,5510,Production,1355.01,Blueberries,2012,2012,tonnes,57.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,208,Denmark,5510,Production,1355.01,Blueberries,2013,2013,tonnes,34.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,208,Denmark,5510,Production,1355.01,Blueberries,2014,2014,tonnes,35.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,208,Denmark,5510,Production,1355.01,Blueberries,2015,2015,tonnes,35.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,208,Denmark,5510,Production,1355.01,Blueberries,2016,2016,tonnes,34.0,T,Unofficial figure,2016-01-01
+QCL,Crops and livestock products,208,Denmark,5510,Production,1355.01,Blueberries,2017,2017,tonnes,40.0,T,Unofficial figure,2017-01-01
+QCL,Crops and livestock products,208,Denmark,5510,Production,1355.01,Blueberries,2018,2018,tonnes,100.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,208,Denmark,5510,Production,1355.01,Blueberries,2019,2019,tonnes,130.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,208,Denmark,5510,Production,1355.01,Blueberries,2020,2020,tonnes,110.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,208,Denmark,5510,Production,1355.01,Blueberries,2021,2021,tonnes,120.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,246,Finland,5510,Production,1355.01,Blueberries,2018,2018,tonnes,130.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,246,Finland,5510,Production,1355.01,Blueberries,2019,2019,tonnes,200.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,246,Finland,5510,Production,1355.01,Blueberries,2020,2020,tonnes,150.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,246,Finland,5510,Production,1355.01,Blueberries,2021,2021,tonnes,190.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,250,France,5510,Production,1355.01,Blueberries,2012,2012,tonnes,8161.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,250,France,5510,Production,1355.01,Blueberries,2013,2013,tonnes,9120.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,250,France,5510,Production,1355.01,Blueberries,2014,2014,tonnes,10260.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,250,France,5510,Production,1355.01,Blueberries,2015,2015,tonnes,9613.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,250,France,5510,Production,1355.01,Blueberries,2016,2016,tonnes,6705.5,A,Official figure,2016-01-01
+QCL,Crops and livestock products,250,France,5510,Production,1355.01,Blueberries,2017,2017,tonnes,8495.5,A,Official figure,2017-01-01
+QCL,Crops and livestock products,250,France,5510,Production,1355.01,Blueberries,2018,2018,tonnes,9127.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,250,France,5510,Production,1355.01,Blueberries,2020,2020,tonnes,7881.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,250,France,5510,Production,1355.01,Blueberries,2021,2021,tonnes,7916.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,276,Germany,5510,Production,1355.01,Blueberries,2012,2012,tonnes,8843.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,276,Germany,5510,Production,1355.01,Blueberries,2013,2013,tonnes,10277.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,276,Germany,5510,Production,1355.01,Blueberries,2014,2014,tonnes,12077.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,276,Germany,5510,Production,1355.01,Blueberries,2015,2015,tonnes,11945.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,276,Germany,5510,Production,1355.01,Blueberries,2016,2016,tonnes,10710.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,276,Germany,5510,Production,1355.01,Blueberries,2017,2017,tonnes,13805.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,276,Germany,5510,Production,1355.01,Blueberries,2018,2018,tonnes,12760.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,276,Germany,5510,Production,1355.01,Blueberries,2019,2019,tonnes,14850.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,276,Germany,5510,Production,1355.01,Blueberries,2020,2020,tonnes,11300.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,276,Germany,5510,Production,1355.01,Blueberries,2021,2021,tonnes,15640.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,348,Hungary,5510,Production,1355.01,Blueberries,2018,2018,tonnes,30.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,348,Hungary,5510,Production,1355.01,Blueberries,2019,2019,tonnes,40.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,348,Hungary,5510,Production,1355.01,Blueberries,2020,2020,tonnes,40.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,348,Hungary,5510,Production,1355.01,Blueberries,2021,2021,tonnes,50.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,380,Italy,5510,Production,1355.01,Blueberries,2012,2012,tonnes,1634.5,I,Imputed value,2012-01-01
+QCL,Crops and livestock products,380,Italy,5510,Production,1355.01,Blueberries,2013,2013,tonnes,1645.53,I,Imputed value,2013-01-01
+QCL,Crops and livestock products,380,Italy,5510,Production,1355.01,Blueberries,2014,2014,tonnes,1664.21,I,Imputed value,2014-01-01
+QCL,Crops and livestock products,380,Italy,5510,Production,1355.01,Blueberries,2015,2015,tonnes,1681.92,I,Imputed value,2015-01-01
+QCL,Crops and livestock products,380,Italy,5510,Production,1355.01,Blueberries,2016,2016,tonnes,1667.44,I,Imputed value,2016-01-01
+QCL,Crops and livestock products,380,Italy,5510,Production,1355.01,Blueberries,2017,2017,tonnes,1671.41,I,Imputed value,2017-01-01
+QCL,Crops and livestock products,380,Italy,5510,Production,1355.01,Blueberries,2020,2020,tonnes,6750.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,380,Italy,5510,Production,1355.01,Blueberries,2021,2021,tonnes,8750.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,428,Latvia,5510,Production,1355.01,Blueberries,2012,2012,tonnes,86.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,428,Latvia,5510,Production,1355.01,Blueberries,2013,2013,tonnes,111.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,428,Latvia,5510,Production,1355.01,Blueberries,2014,2014,tonnes,441.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,428,Latvia,5510,Production,1355.01,Blueberries,2015,2015,tonnes,240.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,428,Latvia,5510,Production,1355.01,Blueberries,2016,2016,tonnes,267.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,428,Latvia,5510,Production,1355.01,Blueberries,2017,2017,tonnes,353.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,428,Latvia,5510,Production,1355.01,Blueberries,2018,2018,tonnes,500.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,428,Latvia,5510,Production,1355.01,Blueberries,2019,2019,tonnes,470.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,428,Latvia,5510,Production,1355.01,Blueberries,2020,2020,tonnes,700.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,428,Latvia,5510,Production,1355.01,Blueberries,2021,2021,tonnes,500.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,440,Lithuania,5510,Production,1355.01,Blueberries,2012,2012,tonnes,800.0,T,Unofficial figure,2012-01-01
+QCL,Crops and livestock products,440,Lithuania,5510,Production,1355.01,Blueberries,2013,2013,tonnes,600.0,T,Unofficial figure,2013-01-01
+QCL,Crops and livestock products,440,Lithuania,5510,Production,1355.01,Blueberries,2014,2014,tonnes,600.0,T,Unofficial figure,2014-01-01
+QCL,Crops and livestock products,440,Lithuania,5510,Production,1355.01,Blueberries,2015,2015,tonnes,113.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,440,Lithuania,5510,Production,1355.01,Blueberries,2016,2016,tonnes,91.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,440,Lithuania,5510,Production,1355.01,Blueberries,2017,2017,tonnes,124.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,440,Lithuania,5510,Production,1355.01,Blueberries,2018,2018,tonnes,100.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,440,Lithuania,5510,Production,1355.01,Blueberries,2019,2019,tonnes,410.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,440,Lithuania,5510,Production,1355.01,Blueberries,2020,2020,tonnes,2340.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,440,Lithuania,5510,Production,1355.01,Blueberries,2021,2021,tonnes,1840.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,484,Mexico,5510,Production,1355.01,Blueberries,2012,2012,tonnes,7191.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,484,Mexico,5510,Production,1355.01,Blueberries,2013,2013,tonnes,10160.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,484,Mexico,5510,Production,1355.01,Blueberries,2014,2014,tonnes,18031.41,A,Official figure,2014-01-01
+QCL,Crops and livestock products,484,Mexico,5510,Production,1355.01,Blueberries,2015,2015,tonnes,15488.54,A,Official figure,2015-01-01
+QCL,Crops and livestock products,484,Mexico,5510,Production,1355.01,Blueberries,2016,2016,tonnes,29066.69,A,Official figure,2016-01-01
+QCL,Crops and livestock products,484,Mexico,5510,Production,1355.01,Blueberries,2017,2017,tonnes,36699.7,A,Official figure,2017-01-01
+QCL,Crops and livestock products,484,Mexico,5510,Production,1355.01,Blueberries,2018,2018,tonnes,40251.34,A,Official figure,2018-01-01
+QCL,Crops and livestock products,484,Mexico,5510,Production,1355.01,Blueberries,2019,2019,tonnes,48998.58,A,Official figure,2019-01-01
+QCL,Crops and livestock products,484,Mexico,5510,Production,1355.01,Blueberries,2020,2020,tonnes,50292.63,A,Official figure,2020-01-01
+QCL,Crops and livestock products,484,Mexico,5510,Production,1355.01,Blueberries,2021,2021,tonnes,66481.52,A,Official figure,2021-01-01
+QCL,Crops and livestock products,504,Morocco,5510,Production,1355.01,Blueberries,2012,2012,tonnes,68.0,E,Estimated value,2012-01-01
+QCL,Crops and livestock products,504,Morocco,5510,Production,1355.01,Blueberries,2013,2013,tonnes,68.29,I,Imputed value,2013-01-01
+QCL,Crops and livestock products,504,Morocco,5510,Production,1355.01,Blueberries,2014,2014,tonnes,68.66,I,Imputed value,2014-01-01
+QCL,Crops and livestock products,504,Morocco,5510,Production,1355.01,Blueberries,2015,2015,tonnes,74.01,I,Imputed value,2015-01-01
+QCL,Crops and livestock products,504,Morocco,5510,Production,1355.01,Blueberries,2016,2016,tonnes,70.32,E,Estimated value,2016-01-01
+QCL,Crops and livestock products,504,Morocco,5510,Production,1355.01,Blueberries,2017,2017,tonnes,70.26,I,Imputed value,2017-01-01
+QCL,Crops and livestock products,504,Morocco,5510,Production,1355.01,Blueberries,2018,2018,tonnes,71.53,E,Estimated value,2018-01-01
+QCL,Crops and livestock products,504,Morocco,5510,Production,1355.01,Blueberries,2019,2019,tonnes,70.7,E,Estimated value,2019-01-01
+QCL,Crops and livestock products,504,Morocco,5510,Production,1355.01,Blueberries,2020,2020,tonnes,70.83,E,Estimated value,2020-01-01
+QCL,Crops and livestock products,504,Morocco,5510,Production,1355.01,Blueberries,2021,2021,tonnes,71.02,E,Estimated value,2021-01-01
+QCL,Crops and livestock products,528,Netherlands,5510,Production,1355.01,Blueberries,2012,2012,tonnes,6000.0,E,Estimated value,2012-01-01
+QCL,Crops and livestock products,528,Netherlands,5510,Production,1355.01,Blueberries,2013,2013,tonnes,5643.06,I,Imputed value,2013-01-01
+QCL,Crops and livestock products,528,Netherlands,5510,Production,1355.01,Blueberries,2014,2014,tonnes,6400.0,E,Estimated value,2014-01-01
+QCL,Crops and livestock products,528,Netherlands,5510,Production,1355.01,Blueberries,2015,2015,tonnes,7750.98,E,Estimated value,2015-01-01
+QCL,Crops and livestock products,528,Netherlands,5510,Production,1355.01,Blueberries,2016,2016,tonnes,9080.84,E,Estimated value,2016-01-01
+QCL,Crops and livestock products,528,Netherlands,5510,Production,1355.01,Blueberries,2017,2017,tonnes,8934.72,E,Estimated value,2017-01-01
+QCL,Crops and livestock products,528,Netherlands,5510,Production,1355.01,Blueberries,2018,2018,tonnes,9300.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,528,Netherlands,5510,Production,1355.01,Blueberries,2019,2019,tonnes,11060.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,528,Netherlands,5510,Production,1355.01,Blueberries,2020,2020,tonnes,9200.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,528,Netherlands,5510,Production,1355.01,Blueberries,2021,2021,tonnes,8500.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,554,New Zealand,5510,Production,1355.01,Blueberries,2012,2012,tonnes,2600.0,E,Estimated value,2012-01-01
+QCL,Crops and livestock products,554,New Zealand,5510,Production,1355.01,Blueberries,2013,2013,tonnes,2783.88,I,Imputed value,2013-01-01
+QCL,Crops and livestock products,554,New Zealand,5510,Production,1355.01,Blueberries,2014,2014,tonnes,3000.0,E,Estimated value,2014-01-01
+QCL,Crops and livestock products,554,New Zealand,5510,Production,1355.01,Blueberries,2015,2015,tonnes,3012.58,I,Imputed value,2015-01-01
+QCL,Crops and livestock products,554,New Zealand,5510,Production,1355.01,Blueberries,2016,2016,tonnes,3072.99,I,Imputed value,2016-01-01
+QCL,Crops and livestock products,554,New Zealand,5510,Production,1355.01,Blueberries,2017,2017,tonnes,3058.82,I,Imputed value,2017-01-01
+QCL,Crops and livestock products,554,New Zealand,5510,Production,1355.01,Blueberries,2018,2018,tonnes,3339.68,I,Imputed value,2018-01-01
+QCL,Crops and livestock products,554,New Zealand,5510,Production,1355.01,Blueberries,2019,2019,tonnes,3659.12,I,Imputed value,2019-01-01
+QCL,Crops and livestock products,554,New Zealand,5510,Production,1355.01,Blueberries,2020,2020,tonnes,3681.74,I,Imputed value,2020-01-01
+QCL,Crops and livestock products,554,New Zealand,5510,Production,1355.01,Blueberries,2021,2021,tonnes,3680.12,I,Imputed value,2021-01-01
+QCL,Crops and livestock products,578,Norway,5510,Production,1355.01,Blueberries,2012,2012,tonnes,35.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,578,Norway,5510,Production,1355.01,Blueberries,2013,2013,tonnes,27.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,578,Norway,5510,Production,1355.01,Blueberries,2014,2014,tonnes,3.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,578,Norway,5510,Production,1355.01,Blueberries,2015,2015,tonnes,4.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,578,Norway,5510,Production,1355.01,Blueberries,2016,2016,tonnes,9.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,578,Norway,5510,Production,1355.01,Blueberries,2017,2017,tonnes,30.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,578,Norway,5510,Production,1355.01,Blueberries,2018,2018,tonnes,26.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,578,Norway,5510,Production,1355.01,Blueberries,2019,2019,tonnes,38.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,578,Norway,5510,Production,1355.01,Blueberries,2020,2020,tonnes,23.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,578,Norway,5510,Production,1355.01,Blueberries,2021,2021,tonnes,40.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2012,2012,tonnes,560.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2013,2013,tonnes,1668.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2014,2014,tonnes,2500.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2015,2015,tonnes,10585.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2016,2016,tonnes,22978.29,A,Official figure,2016-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2017,2017,tonnes,52301.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2018,2018,tonnes,94805.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2019,2019,tonnes,147900.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2020,2020,tonnes,179305.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2021,2021,tonnes,227971.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,616,Poland,5510,Production,1355.01,Blueberries,2012,2012,tonnes,11251.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,616,Poland,5510,Production,1355.01,Blueberries,2013,2013,tonnes,12731.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,616,Poland,5510,Production,1355.01,Blueberries,2014,2014,tonnes,12469.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,616,Poland,5510,Production,1355.01,Blueberries,2015,2015,tonnes,14112.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,616,Poland,5510,Production,1355.01,Blueberries,2016,2016,tonnes,14721.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,616,Poland,5510,Production,1355.01,Blueberries,2017,2017,tonnes,16343.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,616,Poland,5510,Production,1355.01,Blueberries,2018,2018,tonnes,25300.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,616,Poland,5510,Production,1355.01,Blueberries,2019,2019,tonnes,34770.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,616,Poland,5510,Production,1355.01,Blueberries,2020,2020,tonnes,55300.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,616,Poland,5510,Production,1355.01,Blueberries,2021,2021,tonnes,55300.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,620,Portugal,5510,Production,1355.01,Blueberries,2012,2012,tonnes,1436.51,A,Official figure,2012-01-01
+QCL,Crops and livestock products,620,Portugal,5510,Production,1355.01,Blueberries,2013,2013,tonnes,1428.77,A,Official figure,2013-01-01
+QCL,Crops and livestock products,620,Portugal,5510,Production,1355.01,Blueberries,2014,2014,tonnes,1823.71,A,Official figure,2014-01-01
+QCL,Crops and livestock products,620,Portugal,5510,Production,1355.01,Blueberries,2015,2015,tonnes,4435.51,A,Official figure,2015-01-01
+QCL,Crops and livestock products,620,Portugal,5510,Production,1355.01,Blueberries,2016,2016,tonnes,6572.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,620,Portugal,5510,Production,1355.01,Blueberries,2017,2017,tonnes,9840.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,620,Portugal,5510,Production,1355.01,Blueberries,2018,2018,tonnes,11060.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,620,Portugal,5510,Production,1355.01,Blueberries,2019,2019,tonnes,15160.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,620,Portugal,5510,Production,1355.01,Blueberries,2020,2020,tonnes,15420.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,620,Portugal,5510,Production,1355.01,Blueberries,2021,2021,tonnes,17140.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,642,Romania,5510,Production,1355.01,Blueberries,2012,2012,tonnes,1252.73,I,Imputed value,2012-01-01
+QCL,Crops and livestock products,642,Romania,5510,Production,1355.01,Blueberries,2013,2013,tonnes,1099.69,I,Imputed value,2013-01-01
+QCL,Crops and livestock products,642,Romania,5510,Production,1355.01,Blueberries,2014,2014,tonnes,1274.38,E,Estimated value,2014-01-01
+QCL,Crops and livestock products,642,Romania,5510,Production,1355.01,Blueberries,2015,2015,tonnes,320.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,642,Romania,5510,Production,1355.01,Blueberries,2016,2016,tonnes,298.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,642,Romania,5510,Production,1355.01,Blueberries,2017,2017,tonnes,339.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,642,Romania,5510,Production,1355.01,Blueberries,2018,2018,tonnes,650.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,642,Romania,5510,Production,1355.01,Blueberries,2019,2019,tonnes,610.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,642,Romania,5510,Production,1355.01,Blueberries,2020,2020,tonnes,1170.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,642,Romania,5510,Production,1355.01,Blueberries,2021,2021,tonnes,1930.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,643,Russian Federation,5510,Production,1355.01,Blueberries,2012,2012,tonnes,2400.0,T,Unofficial figure,2012-01-01
+QCL,Crops and livestock products,643,Russian Federation,5510,Production,1355.01,Blueberries,2013,2013,tonnes,2500.0,T,Unofficial figure,2013-01-01
+QCL,Crops and livestock products,643,Russian Federation,5510,Production,1355.01,Blueberries,2014,2014,tonnes,2500.0,T,Unofficial figure,2014-01-01
+QCL,Crops and livestock products,643,Russian Federation,5510,Production,1355.01,Blueberries,2015,2015,tonnes,2400.0,T,Unofficial figure,2015-01-01
+QCL,Crops and livestock products,643,Russian Federation,5510,Production,1355.01,Blueberries,2016,2016,tonnes,3000.0,E,Estimated value,2016-01-01
+QCL,Crops and livestock products,643,Russian Federation,5510,Production,1355.01,Blueberries,2017,2017,tonnes,2700.0,E,Estimated value,2017-01-01
+QCL,Crops and livestock products,643,Russian Federation,5510,Production,1355.01,Blueberries,2018,2018,tonnes,3300.0,E,Estimated value,2018-01-01
+QCL,Crops and livestock products,643,Russian Federation,5510,Production,1355.01,Blueberries,2019,2019,tonnes,3500.0,E,Estimated value,2019-01-01
+QCL,Crops and livestock products,643,Russian Federation,5510,Production,1355.01,Blueberries,2020,2020,tonnes,3600.0,E,Estimated value,2020-01-01
+QCL,Crops and livestock products,643,Russian Federation,5510,Production,1355.01,Blueberries,2021,2021,tonnes,4000.0,E,Estimated value,2021-01-01
+QCL,Crops and livestock products,703,Slovakia,5510,Production,1355.01,Blueberries,2018,2018,tonnes,50.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,703,Slovakia,5510,Production,1355.01,Blueberries,2019,2019,tonnes,130.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,703,Slovakia,5510,Production,1355.01,Blueberries,2020,2020,tonnes,110.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,703,Slovakia,5510,Production,1355.01,Blueberries,2021,2021,tonnes,180.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,705,Slovenia,5510,Production,1355.01,Blueberries,2018,2018,tonnes,310.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,705,Slovenia,5510,Production,1355.01,Blueberries,2019,2019,tonnes,290.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,705,Slovenia,5510,Production,1355.01,Blueberries,2020,2020,tonnes,420.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,705,Slovenia,5510,Production,1355.01,Blueberries,2021,2021,tonnes,260.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,724,Spain,5510,Production,1355.01,Blueberries,2012,2012,tonnes,7019.33,I,Imputed value,2012-01-01
+QCL,Crops and livestock products,724,Spain,5510,Production,1355.01,Blueberries,2013,2013,tonnes,11911.59,I,Imputed value,2013-01-01
+QCL,Crops and livestock products,724,Spain,5510,Production,1355.01,Blueberries,2014,2014,tonnes,21060.0,E,Estimated value,2014-01-01
+QCL,Crops and livestock products,724,Spain,5510,Production,1355.01,Blueberries,2015,2015,tonnes,21060.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,724,Spain,5510,Production,1355.01,Blueberries,2016,2016,tonnes,24945.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,724,Spain,5510,Production,1355.01,Blueberries,2017,2017,tonnes,35355.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,724,Spain,5510,Production,1355.01,Blueberries,2018,2018,tonnes,43520.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,724,Spain,5510,Production,1355.01,Blueberries,2019,2019,tonnes,53380.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,724,Spain,5510,Production,1355.01,Blueberries,2020,2020,tonnes,48520.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,724,Spain,5510,Production,1355.01,Blueberries,2021,2021,tonnes,61230.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,752,Sweden,5510,Production,1355.01,Blueberries,2012,2012,tonnes,40.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,752,Sweden,5510,Production,1355.01,Blueberries,2013,2013,tonnes,40.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,752,Sweden,5510,Production,1355.01,Blueberries,2014,2014,tonnes,60.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,752,Sweden,5510,Production,1355.01,Blueberries,2015,2015,tonnes,60.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,752,Sweden,5510,Production,1355.01,Blueberries,2016,2016,tonnes,60.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,752,Sweden,5510,Production,1355.01,Blueberries,2017,2017,tonnes,70.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,752,Sweden,5510,Production,1355.01,Blueberries,2018,2018,tonnes,80.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,752,Sweden,5510,Production,1355.01,Blueberries,2019,2019,tonnes,90.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,752,Sweden,5510,Production,1355.01,Blueberries,2020,2020,tonnes,90.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,752,Sweden,5510,Production,1355.01,Blueberries,2021,2021,tonnes,100.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,756,Switzerland,5510,Production,1355.01,Blueberries,2012,2012,tonnes,331.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,756,Switzerland,5510,Production,1355.01,Blueberries,2013,2013,tonnes,308.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,756,Switzerland,5510,Production,1355.01,Blueberries,2014,2014,tonnes,458.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,756,Switzerland,5510,Production,1355.01,Blueberries,2015,2015,tonnes,410.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,756,Switzerland,5510,Production,1355.01,Blueberries,2016,2016,tonnes,321.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,756,Switzerland,5510,Production,1355.01,Blueberries,2017,2017,tonnes,287.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,756,Switzerland,5510,Production,1355.01,Blueberries,2018,2018,tonnes,366.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,756,Switzerland,5510,Production,1355.01,Blueberries,2019,2019,tonnes,561.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,756,Switzerland,5510,Production,1355.01,Blueberries,2020,2020,tonnes,550.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,756,Switzerland,5510,Production,1355.01,Blueberries,2021,2021,tonnes,680.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,804,Ukraine,5510,Production,1355.01,Blueberries,2012,2012,tonnes,1200.0,T,Unofficial figure,2012-01-01
+QCL,Crops and livestock products,804,Ukraine,5510,Production,1355.01,Blueberries,2013,2013,tonnes,1300.0,T,Unofficial figure,2013-01-01
+QCL,Crops and livestock products,804,Ukraine,5510,Production,1355.01,Blueberries,2014,2014,tonnes,700.0,T,Unofficial figure,2014-01-01
+QCL,Crops and livestock products,804,Ukraine,5510,Production,1355.01,Blueberries,2015,2015,tonnes,600.0,T,Unofficial figure,2015-01-01
+QCL,Crops and livestock products,804,Ukraine,5510,Production,1355.01,Blueberries,2016,2016,tonnes,1260.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,804,Ukraine,5510,Production,1355.01,Blueberries,2017,2017,tonnes,1360.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,804,Ukraine,5510,Production,1355.01,Blueberries,2018,2018,tonnes,1180.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,804,Ukraine,5510,Production,1355.01,Blueberries,2019,2019,tonnes,2390.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,804,Ukraine,5510,Production,1355.01,Blueberries,2020,2020,tonnes,600.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,804,Ukraine,5510,Production,1355.01,Blueberries,2021,2021,tonnes,140.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,840,United States of America,5510,Production,1355.01,Blueberries,2012,2012,tonnes,212168.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,840,United States of America,5510,Production,1355.01,Blueberries,2013,2013,tonnes,246559.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,840,United States of America,5510,Production,1355.01,Blueberries,2014,2014,tonnes,262498.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,840,United States of America,5510,Production,1355.01,Blueberries,2015,2015,tonnes,254012.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,840,United States of America,5510,Production,1355.01,Blueberries,2016,2016,tonnes,269257.0,A,Official figure,2016-01-01
+QCL,Crops and livestock products,840,United States of America,5510,Production,1355.01,Blueberries,2017,2017,tonnes,235210.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,840,United States of America,5510,Production,1355.01,Blueberries,2018,2018,tonnes,255050.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,840,United States of America,5510,Production,1355.01,Blueberries,2019,2019,tonnes,342230.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,840,United States of America,5510,Production,1355.01,Blueberries,2020,2020,tonnes,315520.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,840,United States of America,5510,Production,1355.01,Blueberries,2021,2021,tonnes,351130.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,860,Uzbekistan,5510,Production,1355.01,Blueberries,2012,2012,tonnes,700.0,T,Unofficial figure,2012-01-01
+QCL,Crops and livestock products,860,Uzbekistan,5510,Production,1355.01,Blueberries,2013,2013,tonnes,600.0,T,Unofficial figure,2013-01-01
+QCL,Crops and livestock products,860,Uzbekistan,5510,Production,1355.01,Blueberries,2014,2014,tonnes,600.0,T,Unofficial figure,2014-01-01
+QCL,Crops and livestock products,860,Uzbekistan,5510,Production,1355.01,Blueberries,2015,2015,tonnes,700.0,T,Unofficial figure,2015-01-01
+QCL,Crops and livestock products,860,Uzbekistan,5510,Production,1355.01,Blueberries,2016,2016,tonnes,633.33,E,Estimated value,2016-01-01
+QCL,Crops and livestock products,860,Uzbekistan,5510,Production,1355.01,Blueberries,2017,2017,tonnes,653.54,I,Imputed value,2017-01-01
+QCL,Crops and livestock products,860,Uzbekistan,5510,Production,1355.01,Blueberries,2018,2018,tonnes,675.37,I,Imputed value,2018-01-01
+QCL,Crops and livestock products,860,Uzbekistan,5510,Production,1355.01,Blueberries,2019,2019,tonnes,654.08,E,Estimated value,2019-01-01
+QCL,Crops and livestock products,860,Uzbekistan,5510,Production,1355.01,Blueberries,2020,2020,tonnes,661.0,E,Estimated value,2020-01-01
+QCL,Crops and livestock products,860,Uzbekistan,5510,Production,1355.01,Blueberries,2021,2021,tonnes,663.49,E,Estimated value,2021-01-01

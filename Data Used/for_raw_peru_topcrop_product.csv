@@ -1,0 +1,61 @@
+Domain Code,Domain,Country Code (M49),Country,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description,Year_dt
+QCL,Crops and livestock products,604,Peru,5510,Production,1312.0,Bananas,2012,2012,tonnes,2082089.3,A,Official figure,2012-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1312.0,Bananas,2013,2013,tonnes,2114853.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1312.0,Bananas,2014,2014,tonnes,2125839.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1312.0,Bananas,2015,2015,tonnes,2145361.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1312.0,Bananas,2016,2016,tonnes,2073994.7,A,Official figure,2016-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1312.0,Bananas,2017,2017,tonnes,1981047.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1312.0,Bananas,2018,2018,tonnes,2194857.56,A,Official figure,2018-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1312.0,Bananas,2019,2019,tonnes,2252171.5,A,Official figure,2019-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1312.0,Bananas,2020,2020,tonnes,2326085.08,A,Official figure,2020-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1312.0,Bananas,2021,2021,tonnes,2378045.18,A,Official figure,2021-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2012,2012,tonnes,560.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2013,2013,tonnes,1668.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2014,2014,tonnes,2500.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2015,2015,tonnes,10585.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2016,2016,tonnes,22978.29,A,Official figure,2016-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2017,2017,tonnes,52301.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2018,2018,tonnes,94805.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2019,2019,tonnes,147900.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2020,2020,tonnes,179305.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1355.01,Blueberries,2021,2021,tonnes,227971.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,112.0,Maize (corn),2012,2012,tonnes,1673873.64,A,Official figure,2012-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,112.0,Maize (corn),2013,2013,tonnes,1670470.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,112.0,Maize (corn),2014,2014,tonnes,1529636.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,112.0,Maize (corn),2015,2015,tonnes,1746428.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,112.0,Maize (corn),2016,2016,tonnes,1575955.17,A,Official figure,2016-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,112.0,Maize (corn),2017,2017,tonnes,1523469.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,112.0,Maize (corn),2018,2018,tonnes,1576752.0,A,Official figure,2018-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,112.0,Maize (corn),2019,2019,tonnes,1575955.0,A,Official figure,2019-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,112.0,Maize (corn),2020,2020,tonnes,1448383.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,112.0,Maize (corn),2021,2021,tonnes,1582135.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1510.0,Potatoes,2012,2012,tonnes,4474712.65,A,Official figure,2012-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1510.0,Potatoes,2013,2013,tonnes,4570673.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1510.0,Potatoes,2014,2014,tonnes,4704987.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1510.0,Potatoes,2015,2015,tonnes,4704976.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1510.0,Potatoes,2016,2016,tonnes,5389231.02,A,Official figure,2016-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1510.0,Potatoes,2017,2017,tonnes,4776294.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1510.0,Potatoes,2018,2018,tonnes,5133927.31,A,Official figure,2018-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1510.0,Potatoes,2019,2019,tonnes,5389231.02,A,Official figure,2019-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1510.0,Potatoes,2020,2020,tonnes,5515378.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1510.0,Potatoes,2021,2021,tonnes,5661443.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,113.0,Rice,2012,2012,tonnes,3043330.45,A,Official figure,2012-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,113.0,Rice,2013,2013,tonnes,3050934.0,A,Official figure,2013-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,113.0,Rice,2014,2014,tonnes,2896613.0,A,Official figure,2014-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,113.0,Rice,2015,2015,tonnes,3151408.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,113.0,Rice,2016,2016,tonnes,3190969.47,A,Official figure,2016-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,113.0,Rice,2017,2017,tonnes,3115544.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,113.0,Rice,2018,2018,tonnes,3557899.99,A,Official figure,2018-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,113.0,Rice,2019,2019,tonnes,3190969.47,A,Official figure,2019-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,113.0,Rice,2020,2020,tonnes,3434199.0,A,Official figure,2020-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,113.0,Rice,2021,2021,tonnes,3474307.0,A,Official figure,2021-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1802.0,Sugar cane,2012,2012,tonnes,10368866.0,A,Official figure,2012-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1802.0,Sugar cane,2013,2013,tonnes,10992240.3,A,Official figure,2013-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1802.0,Sugar cane,2014,2014,tonnes,11389617.19,A,Official figure,2014-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1802.0,Sugar cane,2015,2015,tonnes,10211856.0,A,Official figure,2015-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1802.0,Sugar cane,2016,2016,tonnes,9832525.59,A,Official figure,2016-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1802.0,Sugar cane,2017,2017,tonnes,9399617.0,A,Official figure,2017-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1802.0,Sugar cane,2018,2018,tonnes,10336177.91,A,Official figure,2018-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1802.0,Sugar cane,2019,2019,tonnes,10902905.88,A,Official figure,2019-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1802.0,Sugar cane,2020,2020,tonnes,10468800.33,A,Official figure,2020-01-01
+QCL,Crops and livestock products,604,Peru,5510,Production,1802.0,Sugar cane,2021,2021,tonnes,9827807.68,A,Official figure,2021-01-01

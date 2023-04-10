@@ -1,0 +1,11 @@
+Domain Code,Domain,Country Code (M49),Country,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+QCL,Crops and livestock products,604,Peru,5312,Area harvested,1355.01,Blueberries,2012,2012,ha,400.0,A,Official figure
+QCL,Crops and livestock products,604,Peru,5312,Area harvested,1355.01,Blueberries,2013,2013,ha,650.0,A,Official figure
+QCL,Crops and livestock products,604,Peru,5312,Area harvested,1355.01,Blueberries,2014,2014,ha,300.0,A,Official figure
+QCL,Crops and livestock products,604,Peru,5312,Area harvested,1355.01,Blueberries,2015,2015,ha,1158.0,A,Official figure
+QCL,Crops and livestock products,604,Peru,5312,Area harvested,1355.01,Blueberries,2016,2016,ha,1945.0,A,Official figure
+QCL,Crops and livestock products,604,Peru,5312,Area harvested,1355.01,Blueberries,2017,2017,ha,4134.0,A,Official figure
+QCL,Crops and livestock products,604,Peru,5312,Area harvested,1355.01,Blueberries,2018,2018,ha,6011.0,A,Official figure
+QCL,Crops and livestock products,604,Peru,5312,Area harvested,1355.01,Blueberries,2019,2019,ha,8490.0,I,Imputed value
+QCL,Crops and livestock products,604,Peru,5312,Area harvested,1355.01,Blueberries,2020,2020,ha,9110.0,I,Imputed value
+QCL,Crops and livestock products,604,Peru,5312,Area harvested,1355.01,Blueberries,2021,2021,ha,16041.0,E,Estimated value
